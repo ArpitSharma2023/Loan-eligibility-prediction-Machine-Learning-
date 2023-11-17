@@ -1,1 +1,4 @@
 # Loan-eligibility-prediction-Machine-Learning-
+Loan elgibility defined as a set of creterion basis which a financial institution evaluates to decide of a customer for a particular loan.In this data,There is applied a tree model and Naive based model and get accuracy of model.
+Generally, loan prediction involves the lender looking at various background information about the applicant and deciding whether the bank should grant the loan. Parameters like credit score, loan amount, lifestyle, career, and assets are the deciding factors in getting the loan approved.
+We will start with Logistic Regression which is used for predicting binary outcome. Logistic Regression is a classification algorithm. It is used to predict a binary outcome (1 / 0, Yes / No, True / False) given a set of independent variables.
